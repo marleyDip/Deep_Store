@@ -21,7 +21,6 @@ export default function Home() {
             .
           </li>
           <li>Save and see your changes instantly.</li>
-          <li>update workflow</li>
           <li>Again update workflow</li>
         </ol>
 
